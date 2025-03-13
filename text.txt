@@ -1,0 +1,47 @@
+batsmen : 
+id:"11808"
+rank:"1"
+name:"Shubman Gill"
+country:"India"
+rating:"791"
+difference:1
+points:"791"
+lastUpdatedOn:"2025-03-11"
+trend:"Up"
+faceImageId:"616515"
+countryId:"2"
+
+bowler : 
+id:"18504"
+rank:"1"
+name:"Maheesh Theekshana"
+country:"Sri Lanka"
+rating:"680"
+points:"680"
+lastUpdatedOn:"2025-03-10"
+trend:"New"
+faceImageId:"594214"
+countryId:"5"
+
+all-rounder:
+id:"13214"
+rank:"1"
+name:"Azmatullah Omarzai"
+country:"Afghanistan"
+rating:"296"
+difference:2
+points:"296"
+lastUpdatedOn:"2025-03-10"
+trend:"Up"
+faceImageId:"616549"
+countryId:"96"
+
+teams:
+id:"2"
+rank:"1"
+name:"India"
+rating:"122"
+matches:"53"
+points:"6486"
+lastUpdatedOn:"2025-03-11"
+imageId:"172115"
