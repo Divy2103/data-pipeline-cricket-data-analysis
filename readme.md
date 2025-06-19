@@ -82,7 +82,7 @@ Power BI Dashboards
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AkshSurani/cricbuzz_api_project.git
+git clone https://github.com/AkshSurani/cricbuzz-cricket-data-pipeline-dashboard.git
 cd cricbuzz-dashboard
 ```
 
