@@ -169,8 +169,6 @@ API access is bound by **Cricbuzz and RapidAPI** terms of service.
 
 ## 📸 Dashboard Screenshots 
 
-Place your dashboard screenshots in the `screenshots/` folder and embed them here.
-
 ### 🧭 Overview Dashboard
 ![Overview Dashboards](screenshots/Overview_Dashboards.png)
 
